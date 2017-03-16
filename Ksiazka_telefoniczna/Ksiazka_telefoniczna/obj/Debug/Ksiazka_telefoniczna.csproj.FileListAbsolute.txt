@@ -1,0 +1,10 @@
+c:\users\tomek\documents\visual studio 2017\Projects\Ksiazka_telefoniczna\Ksiazka_telefoniczna\obj\Debug\Ksiazka_telefoniczna.csprojResolveAssemblyReference.cache
+c:\users\tomek\documents\visual studio 2017\Projects\Ksiazka_telefoniczna\Ksiazka_telefoniczna\obj\Debug\Ksiazka_telefoniczna.Form1.resources
+c:\users\tomek\documents\visual studio 2017\Projects\Ksiazka_telefoniczna\Ksiazka_telefoniczna\obj\Debug\Ksiazka_telefoniczna.Properties.Resources.resources
+c:\users\tomek\documents\visual studio 2017\Projects\Ksiazka_telefoniczna\Ksiazka_telefoniczna\obj\Debug\Ksiazka_telefoniczna.csproj.GenerateResource.Cache
+c:\users\tomek\documents\visual studio 2017\Projects\Ksiazka_telefoniczna\Ksiazka_telefoniczna\bin\Debug\Ksiazka_telefoniczna.exe.config
+c:\users\tomek\documents\visual studio 2017\Projects\Ksiazka_telefoniczna\Ksiazka_telefoniczna\bin\Debug\Ksiazka_telefoniczna.exe
+c:\users\tomek\documents\visual studio 2017\Projects\Ksiazka_telefoniczna\Ksiazka_telefoniczna\bin\Debug\Ksiazka_telefoniczna.pdb
+c:\users\tomek\documents\visual studio 2017\Projects\Ksiazka_telefoniczna\Ksiazka_telefoniczna\obj\Debug\Ksiazka_telefoniczna.exe
+c:\users\tomek\documents\visual studio 2017\Projects\Ksiazka_telefoniczna\Ksiazka_telefoniczna\obj\Debug\Ksiazka_telefoniczna.pdb
+C:\Users\Tomek\Documents\Visual Studio 2017\Projects\Ksiazka_telefoniczna\Ksiazka_telefoniczna\obj\Debug\Ksiazka_telefoniczna.Form2.resources
